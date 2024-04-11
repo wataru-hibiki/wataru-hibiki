@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="200" height="200" src="https://files.catbox.moe/965a5f.gif">
+</p>
 ![](https://64.media.tumblr.com/69a5fb9762fd7f7f6855cd0db6505abb/68aa877d24820849-6a/s100x200/91b845695774f5c70c10711a300496b429cb11e1.pnj)
 ![](https://files.catbox.moe/v7udzu.png)
 ![tumblr_46451831092dfc7133138eb967e3406e_ce617f89_100](https://github.com/rainbowcircus/rainbowcircus/assets/116705019/fb4a405c-8c44-4440-9535-ecc8f1c33dd3)
