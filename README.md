@@ -13,8 +13,8 @@
 <p align="center">
 <p align="center"> <a href="https://rentry.co/kevin">
   <img src="https://files.catbox.moe/q7v1xg.png" alt="My Image" /></a> <a href="https://kevin.atabook.org/">
-  <img src="https://files.catbox.moe/qczzgt.png" alt="atabook" /></a> <a href="https://rentry.co/kevin">
-  <img src="https://files.catbox.moe/ek16mw.png" alt="stamps" /></a> <a href="https://github.com/wataru-hibiki/boombox">
+  <img src="https://files.catbox.moe/qczzgt.png" alt="atabook" /></a> <a href="https://github.com/wataru-hibiki/boombox">
+  <img src="https://files.catbox.moe/ek16mw.png" alt="stamps" /></a>
 <p align="center">
   <img src="https://files.catbox.moe/743r9c.png" />
 </p>
