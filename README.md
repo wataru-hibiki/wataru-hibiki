@@ -9,6 +9,9 @@
 <p align="center">
     <img width="200" src="https://files.catbox.moe/gyqu28.png" alt="ac new7ku on twt">
   </p>
+  <p align="center">
+     'cause i'm a punk rocker, yes i am!
+  </p>
 ⠀⠀<br/>
 ⠀⠀<br/>
 ⠀⠀<br/>
