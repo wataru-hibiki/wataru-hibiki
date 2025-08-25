@@ -5,6 +5,6 @@
 <p align="center">
     <img width="200" src="https://files.catbox.moe/gyqu28.png" alt="ac new7ku on twt">
 </p>
-<p align="center">
+
   [ata](https://kevin.atabook.org/) [rentry](https://rentry.co/kevin)
-</p>
+
