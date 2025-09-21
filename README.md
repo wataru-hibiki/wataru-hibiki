@@ -2,7 +2,7 @@
 ⠀⠀<br/>
 ⠀⠀<br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wataru-hibiki&style=plastic&label=⠀⠀(ꈍᴗꈍ)⠀⠀&color=b7ede5" />
+  <img src="https://komarev.com/ghpvc/?username=wataru-hibiki&style=plastic&label=⠀⠀(ꈍᴗꈍ)⠀⠀&color=bdbcdc" />
 </p>
 <p align="center">
     <img width="200" src="https://files.catbox.moe/tcklct.png" alt="ac owenwilsonkisser on tmblr">
