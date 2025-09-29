@@ -8,7 +8,7 @@
     <img width="300" src="https://files.catbox.moe/73kj1i.png" alt="ac filobooster on tmblr">
   </p>
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=16&duration=4998&pause=999&color=A6A6BF&center=true&vCenter=true&width=435&lines=God+I+dreamed+there+was+an+angel%2C;Who+could+hear+me+through+the+wall;As+I+cried+out%2C+like+in+Latin%2C;This+is+so+not+life+at+all!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=17&duration=4999&pause=200&color=A6A6BF&center=true&vCenter=true&width=435&lines=Wherever+you+go%2C+there'll+be%2C;Love%2C+love%2C+love!" alt="Typing SVG" /></a>
     </p>
 ⠀⠀<br/>
 ⠀⠀<br/>
