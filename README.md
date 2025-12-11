@@ -8,7 +8,7 @@
     <img width="135" src="https://files.catbox.moe/n6vrzd.png" alt="ac filobooster on tmblr">
   </p>
   <p align="center">
-    <img width="97" src="https://files.catbox.moe/vyfmd3.png" alt=" ">
+    <img width="95" src="https://files.catbox.moe/vyfmd3.png" alt=" ">
   </p>
 ⠀<br/>
 ⠀⠀<br/>
